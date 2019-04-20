@@ -1,0 +1,52 @@
+
+body{
+  
+    background: url(pic3.jpg) 50% 50% no-repeat;
+    background-size: cover;
+    ;
+    
+    
+}
+       p
+        {
+          color:whitesmoke;
+            font size: 50%;
+        }
+
+.sign{
+    
+    border: 5px solid rgba(255,255,255,0.3);
+    border-radius: 5px;
+    padding: 4em;
+    
+    
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%)translateY(-50%);
+}
+
+
+h1{
+    color:black;
+    margin-top: 0px;
+    font-family:Source sans-serif;
+    font-weight:bolder;
+    color: crimson;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+
+button {
+    width: 320px;
+    height: 50px;
+    font-size: 16px;
+    background:lightblue ;
+    font-weight: lighter;
+    border-color:black;
+    border: 0px;
+    border-radius: 5px;   
+}
