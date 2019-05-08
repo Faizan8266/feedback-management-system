@@ -7,4 +7,5 @@ subject facluty member. The student needs to get registered with in website by e
 the registration page. A student can get logged in by entering username, and password.Student can give
 feedback for particular semseter subject.
 # Image:-
-![feedback-management-system](Screenshot (160).png)
+
+![alt tag](https://github.com/Faizan8266/feedback-management-system/edit/master/images/Screenshot (160).png)
