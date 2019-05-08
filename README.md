@@ -8,4 +8,4 @@ the registration page. A student can get logged in by entering username, and pas
 feedback for particular semseter subject.
 # Image:-
 
-![alt tag](https://github.com/Faizan8266/feedback-management-system/edit/master/images/Screenshot (160).png)
+![alt tag](https://github.com/Faizan8266/feedback-management-system/blob/master/Screenshot%20(160).png)
