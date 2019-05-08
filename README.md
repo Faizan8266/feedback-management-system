@@ -6,4 +6,5 @@ the college faculty member will be added by admin.Students can give feedback for
 subject facluty member. The student needs to get registered with in website by entering all the details in
 the registration page. A student can get logged in by entering username, and password.Student can give
 feedback for particular semseter subject.
-![images](Screenshot (160).png)
+
+#![feedback-management-system](Screenshot (160).png)
